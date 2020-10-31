@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">instagram</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="add_post">Add Post</string>
+    <string name="profile">Profile</string>
+    <string name="image">Image</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="username">Username</string>
+    <string name="create_account">Create Account</string>
+    <string name="post">Post</string>
+    <string name="write_anything">Write Anything...</string>
+    <string name="log_out">Log Out</string>
+    <string name="somethingWentWrong">somethingWentWrong</string>
+    <string name="youHaventPickedImage">youHaven\'tPickedImage</string>
+    <string name="permissionDenied">permissionDenied</string>
+</resources>
